@@ -1,0 +1,13 @@
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\bin\Debug\UserManagementSystem.exe.config
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\bin\Debug\UserManagementSystem.exe
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\bin\Debug\UserManagementSystem.pdb
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\obj\Debug\UserManagementSystem.exe
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\obj\Debug\UserManagementSystem.pdb
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\79969\Desktop\ArraySorting\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
